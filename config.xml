@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>favicon</name>
+	<displayName><![CDATA[Favicons]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This module add support for a lot of type favicon.]]></description>
+	<author><![CDATA[Dark-Side.pro]]></author>
+	<tab><![CDATA[seo]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
